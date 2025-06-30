@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104865530314",
+    "project_id": "flash-chatt-c221b",
+    "storage_bucket": "flash-chatt-c221b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104865530314:android:53773ac09aa6a1e3294f33",
+        "android_client_info": {
+          "package_name": "com.example.cloud_chat_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtM0Jddb-4Ctl_CQTi1hqBLDBpilq6StA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
